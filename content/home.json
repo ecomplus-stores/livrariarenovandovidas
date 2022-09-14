@@ -78,6 +78,10 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/38552-whatsapp-image-2022-06-05-at-12.00.41.jpeg"
     }
   ]
 }
