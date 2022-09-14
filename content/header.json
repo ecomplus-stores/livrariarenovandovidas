@@ -1,27 +1,22 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Livraria Cristã Renovando Vidas!",
+    "link": "",
+    "background": "#13037d",
+    "color": "#f8fcfc"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 8,
+    "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
