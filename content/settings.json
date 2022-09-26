@@ -1,5 +1,6 @@
 {
   "domain": "livrariarenovandovidas.netlify.app",
+  "repository": "ecomplus-stores/livrariarenovandovidas",
   "currency_symbol": "R$",
   "primary_color": "#00214d",
   "theme": {
