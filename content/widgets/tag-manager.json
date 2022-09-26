@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "<!-- Global site tag (gtag.js) - Google Ads: 10993134831 --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-10993134831\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'AW-10993134831'); </script>",
+    "gtmContainerId": "AW-10993134831",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
