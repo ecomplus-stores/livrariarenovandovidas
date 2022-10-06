@@ -40,13 +40,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": true,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6215c9b57963422eee1628c8:categories:Bíblia Jovem:/biblia-jovem",
+      "title": "Bíblia Jovem"
     },
     {
       "type": "collection-shelf",
@@ -61,24 +59,26 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621049407963422eee0d20ac:categories:Bíblia do Homem:/biblia",
-      "title": "Bíblia do Homem"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "621138fd7963422eee0e4204:categories:Bíblia da Mulher:/biblia-da-mulher-de-estudo",
       "title": "Bíblia da Mulher"
     },
     {
       "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "",
+      "headless": true,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6215c9b57963422eee1628c8:categories:Bíblia Jovem:/biblia-jovem",
-      "title": "Bíblia Jovem"
+      "collection_id": "621049407963422eee0d20ac:categories:Bíblia do Homem:/biblia",
+      "title": "Bíblia do Homem"
     },
     {
       "type": "dynamic-showcase",
