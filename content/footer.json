@@ -39,6 +39,7 @@
     "santander": true,
     "mastercard": true,
     "citibank": false,
+    "hiper": true,
     "mais": false,
     "amex": true,
     "itau": true
