@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Livraria Cristã Renovando Vidas",
+    "text": "Outubro Rosa",
     "link": "https://livrariarenovandovidas.netlify.app/",
-    "background": "#13037d",
-    "color": "#f8fcfc"
+    "background": "#c5c3c5",
+    "color": "#001111"
   },
   "contacts_stripe": {
     "pages": [],
