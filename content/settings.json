@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/livrariarenovandovidas",
   "logo": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57-removebg-preview.png",
   "name": "LIVRARIA CRISTÃ RENOVANDO VIDAS",
-  "short_name": "livrariarenovandovidas",
+  "short_name": "livrariacristarenovandovidas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#f66d8f",
   "icon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png",
   "store_id": 38552,
-  "description": "livrariarenovandovidas",
+  "description": "livrariacristarenovandovidas",
   "large_icon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png"
 }
