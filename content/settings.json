@@ -1,6 +1,5 @@
 {
   "domain": "livrariarenovandovidas.netlify.app",
-  "repository": "ecomplus-stores/livrariarenovandovidas",
   "currency_symbol": "R$",
   "primary_color": "#00214d",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/livrariarenovandovidas",
   "logo": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png",
   "name": "LIVRARIA CRISTÃ RENOVANDO VIDAS",
   "short_name": "livrariarenovandovidas",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#a60c0c",
+  "secondary_color": "#b1adb2",
   "icon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png",
   "store_id": 38552,
   "description": "livrariarenovandovidas",
