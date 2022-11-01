@@ -1,7 +1,7 @@
 {
   "domain": "livrariarenovandovidas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#00214d",
+  "primary_color": "#4127f9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f66d8f",
+  "secondary_color": "#4127f9",
   "icon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png",
   "store_id": 38552,
   "description": "livrariacristarenovandovidas",
