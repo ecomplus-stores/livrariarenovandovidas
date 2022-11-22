@@ -41,11 +41,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 8,
+      "limit": 6,
       "page": 1,
       "sort": "offers",
       "title": "Promoção",
-      "collection_id": "621138fd7963422eee0e4204:categories:Bíblia da Mulher:/biblia-da-mulher-de-estudo",
+      "collection_id": "637cdf0e73321213f8e8a838:categories:Slim GEO:/slim-geo",
       "headless": true
     },
     {
