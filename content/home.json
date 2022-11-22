@@ -31,9 +31,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 6,
+      "limit": 10,
       "page": 1,
-      "collection_id": "637cc7cf73321213f8e86e73:categories:Slim KJA:/slim-kja",
+      "collection_id": "637cc7cf73321213f8e86e73:categories:Bíblia Slim KJA:/slim-kja",
       "title": "Bíblia Slim KJA",
       "sort": "news",
       "headless": false
