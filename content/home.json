@@ -66,11 +66,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "",
+      "collection_id": "6297f03fac0cb4200ffb2e4a:categories:Bíblia KJA:/biblia-king-james-atualizada",
+      "sort": "news",
+      "title": "Bíblia King James Atualizada - Anote",
       "headless": true,
-      "limit": 12,
+      "limit": 8,
       "page": 1
     },
     {
