@@ -63,9 +63,9 @@
       "shuffle": false,
       "limit": 6,
       "page": 1,
-      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil / Revistas / Gibis:/biblia-infantil",
-      "title": "Bíblia Infantil ",
-      "sort": "lowest_price",
+      "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
+      "title": "Bíblia de Estudo ",
+      "sort": "offers",
       "headless": true
     },
     {
