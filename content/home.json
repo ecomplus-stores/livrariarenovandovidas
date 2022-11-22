@@ -70,8 +70,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
