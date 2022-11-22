@@ -24,7 +24,7 @@
       "collection_id": "637cc81473321213f8e86ed9:categories:Anote KJA CPP:/anote-kja-cpp",
       "sort": "offers",
       "title": "Bíblia King James Atualizada - Anote",
-      "headless": true,
+      "headless": false,
       "limit": 6,
       "page": 1
     },
