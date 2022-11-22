@@ -36,6 +36,16 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "collection_id": "6297f03fac0cb4200ffb2e4a:categories:Bíblia KJA:/biblia-king-james-atualizada",
+      "sort": "news",
+      "title": "Bíblia King James Atualizada - Anote",
+      "headless": true,
+      "limit": 8,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
       "limit": 6,
       "page": 1,
       "collection_id": "6215c9b57963422eee1628c8:categories:Bíblia Jovem:/biblia-jovem",
@@ -62,16 +72,6 @@
       "title": "Bíblia do Homem",
       "sort": "offers",
       "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "6297f03fac0cb4200ffb2e4a:categories:Bíblia KJA:/biblia-king-james-atualizada",
-      "sort": "news",
-      "title": "Bíblia King James Atualizada - Anote",
-      "headless": true,
-      "limit": 8,
-      "page": 1
     },
     {
       "type": "collection-shelf",
