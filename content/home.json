@@ -45,11 +45,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 8,
       "page": 1,
       "sort": "offers",
-      "title": "Promoção"
+      "title": "Promoção",
+      "collection_id": "621138fd7963422eee0e4204:categories:Bíblia da Mulher:/biblia-da-mulher-de-estudo",
+      "headless": true
     },
     {
       "type": "collection-shelf",
