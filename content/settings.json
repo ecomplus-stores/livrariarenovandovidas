@@ -4,19 +4,19 @@
   "primary_color": "#4127f9",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/livrariarenovandovidas",
   "logo": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57-removebg-preview.png",
-  "name": "LIVRARIA CRISTÃ RENOVANDO VIDAS",
+  "name": "Livraria Cristã Renovando Vidas ",
   "short_name": "livrariacristarenovandovidas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57-removebg-preview.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#4127f9",
   "icon": "/img/uploads/1645043989404-948e5790-8f68-11ec-b6ed-b3aee9933b57.png",
