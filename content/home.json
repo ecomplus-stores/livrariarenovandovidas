@@ -53,9 +53,9 @@
       "shuffle": false,
       "limit": 6,
       "page": 1,
-      "collection_id": "6215c9b57963422eee1628c8:categories:Bíblia Jovem:/biblia-jovem",
+      "collection_id": "637cc7cf73321213f8e86e73:categories:Slim KJA:/slim-kja",
       "title": "Bíblia Slim ",
-      "sort": "offers",
+      "sort": "news",
       "headless": true
     },
     {
