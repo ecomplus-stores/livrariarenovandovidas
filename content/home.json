@@ -41,11 +41,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 6,
+      "limit": 10,
       "page": 1,
       "sort": "offers",
       "title": "Bíblia Slim ",
-      "collection_id": "637cdf0e73321213f8e8a838:categories:Slim GEO:/slim-geo",
+      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim GEO:/slim-geo",
       "headless": false
     },
     {
