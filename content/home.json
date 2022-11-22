@@ -64,9 +64,9 @@
       "limit": 6,
       "page": 1,
       "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
-      "title": "Bíblia de Estudo ",
-      "sort": "offers",
-      "headless": true
+      "title": "Bíblia de Estudo Feminina ",
+      "sort": "sales",
+      "headless": false
     },
     {
       "type": "dynamic-showcase",
