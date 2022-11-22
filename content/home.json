@@ -98,7 +98,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
