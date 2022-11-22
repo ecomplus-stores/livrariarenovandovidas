@@ -78,6 +78,15 @@
       "title": "Bíblia Masculina"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 10,
+      "page": 1,
+      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil / Revistas / Gibis:/biblia-infantil",
+      "sort": "news",
+      "title": "Bíblia Infantil "
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
@@ -86,15 +95,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/38552-whatsapp-image-2022-06-05-at-12.00.41.jpeg",
       "link": "https://www.kangu.com.br/calcular-frete/?utm_source=Google&utm_medium=cpc&utm_campaign=GA-Extensao-Calcular-Frete&utm_content=GA-Extensao-Calcular-Frete&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qh_VdoGodksiJiIzg3x71QtzysM0JIYrCjaCAzcHfQDjSP0CA40dLsaApfzEALw_wcB"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 10,
-      "page": 1,
-      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil / Revistas / Gibis:/biblia-infantil",
-      "sort": "news",
-      "title": "Bíblia Infantil "
     }
   ]
 }
