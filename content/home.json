@@ -55,7 +55,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 8,
       "page": 1,
       "sort": "offers",
