@@ -33,9 +33,9 @@
       "shuffle": false,
       "limit": 6,
       "page": 1,
-      "collection_id": "637cc7cf73321213f8e86e73:categories:Slim KJA:/slim-kja",
-      "title": "Bíblia Slim ",
-      "sort": "news",
+      "sort": "views",
+      "title": "",
+      "collection_id": "637cdf0e73321213f8e8a838:categories:Slim GEO:/slim-geo",
       "headless": true
     },
     {
@@ -43,9 +43,9 @@
       "shuffle": false,
       "limit": 6,
       "page": 1,
-      "sort": "views",
-      "title": "",
-      "collection_id": "637cdf0e73321213f8e8a838:categories:Slim GEO:/slim-geo",
+      "collection_id": "637cc7cf73321213f8e86e73:categories:Slim KJA:/slim-kja",
+      "title": "Bíblia Slim ",
+      "sort": "news",
       "headless": true
     },
     {
