@@ -55,11 +55,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 8,
       "page": 1,
-      "collection_id": "621138fd7963422eee0e4204:categories:Bíblia da Mulher:/biblia-da-mulher-de-estudo",
-      "title": "Bíblia da Mulher"
+      "collection_id": "621049407963422eee0d20ac:categories:Bíblia do Homem:/biblia",
+      "title": "Bíblia do Homem",
+      "sort": "offers",
+      "headless": true
     },
     {
       "type": "collection-shelf",
