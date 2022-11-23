@@ -104,14 +104,6 @@
       "sort": "views"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/38552-dicionario-elias-soares.png"
-        }
-      ]
-    },
-    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-11-23T13:46:47.444Z",
