@@ -36,7 +36,7 @@
       "collection_id": "637cc7cf73321213f8e86e73:categories:Bíblia Slim KJA:/slim-kja",
       "title": "Bíblia Slim KJA",
       "sort": "news",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
