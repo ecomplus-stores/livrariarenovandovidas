@@ -120,6 +120,13 @@
         "620fd61f7963422eee0c097c",
         "629118c8ac0cb4200fedb811"
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 1000
     }
   ]
 }
