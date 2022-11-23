@@ -111,6 +111,14 @@
       "offers": [
         "620fd61f7963422eee0c097c"
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/38552-dicionario-elias-soares.png"
+        }
+      ]
     }
   ]
 }
