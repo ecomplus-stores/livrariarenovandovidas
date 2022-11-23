@@ -104,11 +104,6 @@
       "sort": "views"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/38552-dicionario-elias-soares.png",
-      "link": ""
-    },
-    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-11-23T13:46:47.444Z",
@@ -116,10 +111,6 @@
       "offers": [
         "620fd61f7963422eee0c097c"
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/38552-volume-2-elias-soares.png"
     }
   ]
 }
