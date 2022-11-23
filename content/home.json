@@ -56,7 +56,7 @@
       "collection_id": "6347420873321213f8a8f667:categories:Bíblia Feminina:/biblia-sagrada",
       "title": "Bíblia Feminina Com Harpa Cristã",
       "sort": "lowest_price",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
