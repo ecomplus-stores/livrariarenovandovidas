@@ -112,6 +112,15 @@
       "type": "responsive-banner",
       "img": "/img/uploads/38552-dicionario-elias-soares.png",
       "link": ""
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-23T13:46:47.444Z",
+      "end": "2022-12-01T02:59:47.594Z",
+      "offers": [
+        "620fd61f7963422eee0c097c"
+      ]
     }
   ]
 }
