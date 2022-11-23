@@ -66,7 +66,7 @@
       "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
       "title": "Bíblia de Estudo Feminina ",
       "sort": "sales",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
