@@ -46,7 +46,7 @@
       "sort": "offers",
       "title": "Bíblia Slim ",
       "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim GEO:/slim-geo",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
