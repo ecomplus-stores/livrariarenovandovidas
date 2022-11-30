@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "#NovembroAzul",
+    "text": "ENVIAMOS PARA TODO BRASIL",
     "link": "https://livrariarenovandovidas.netlify.app/",
     "background": "#4127f9",
     "color": "#fcfcf9"
@@ -12,7 +12,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 8,
+    "random": 10,
     "full_width": true
   },
   "desktop_megamenu": true,
