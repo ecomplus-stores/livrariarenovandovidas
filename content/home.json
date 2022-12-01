@@ -21,12 +21,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "637cc81473321213f8e86ed9:categories:Bíblia Anote KJA CPP:/anote-kja-cpp",
-      "sort": "offers",
-      "title": "Bíblia King James Atualizada - Anote",
-      "headless": true,
       "limit": 10,
-      "page": 1
+      "page": 1,
+      "sort": "offers",
+      "title": "Bíblia Slim ",
+      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim GEO:/slim-geo",
+      "headless": true
     },
     {
       "type": "collection-shelf",
@@ -41,12 +41,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 10,
-      "page": 1,
+      "collection_id": "637cc81473321213f8e86ed9:categories:Bíblia Anote KJA CPP:/anote-kja-cpp",
       "sort": "offers",
-      "title": "Bíblia Slim ",
-      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim GEO:/slim-geo",
-      "headless": true
+      "title": "Bíblia King James Atualizada - Anote",
+      "headless": true,
+      "limit": 10,
+      "page": 1
     },
     {
       "type": "collection-shelf",
@@ -102,19 +102,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-23T13:46:47.444Z",
-      "end": "2022-12-01T02:59:47.594Z",
-      "offers": [
-        "629118c8ac0cb4200fedb811",
-        "620fd61f7963422eee0c097c",
-        "625ec06a3da6d37bc2ebdf11",
-        "62912150ac0cb4200fedd498"
-      ],
-      "notes": "Oferta Relâmpago 24hs de Promoção!"
     },
     {
       "type": "brands-carousel",
