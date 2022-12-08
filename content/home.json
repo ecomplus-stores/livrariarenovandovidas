@@ -117,6 +117,15 @@
       "autoplay": 3000
     },
     {
+      "type": "offers-timer",
+      "max_hours": 2,
+      "start": "2022-12-08T01:31:15.049Z",
+      "end": "2022-12-08T03:59:15.231Z",
+      "offers": [
+        "629118c8ac0cb4200fedb811"
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/38552-volume-2-elias-soares.png",
       "link": "https://livrariarenovandovidas.netlify.app/perguntas-dificeis-de-responder-volume-2"
