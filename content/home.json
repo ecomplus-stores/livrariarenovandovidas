@@ -110,13 +110,6 @@
       "sort": "views"
     },
     {
-      "type": "brands-carousel",
-      "limit": 20,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 3000
-    },
-    {
       "type": "offers-timer",
       "max_hours": 2,
       "start": "2022-12-08T01:31:15.049Z",
@@ -128,6 +121,13 @@
         "6291224cac0cb4200fedd6dd",
         "62912150ac0cb4200fedd498"
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 20,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 3000
     },
     {
       "type": "responsive-banner",
