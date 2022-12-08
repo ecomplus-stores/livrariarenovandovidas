@@ -32,6 +32,46 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
+      "sort": "news",
+      "title": "Promoção ",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 10,
+      "page": 1,
+      "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia",
+      "sort": "news",
+      "title": "Bíblia Masculina",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 10,
+      "page": 1,
+      "collection_id": "6347420873321213f8a8f667:categories:Bíblia Feminina:/biblia-sagrada",
+      "title": "Bíblia Feminina Com Harpa Cristã",
+      "sort": "views",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 10,
+      "page": 1,
+      "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
+      "title": "Bíblia de Estudo Feminina ",
+      "sort": "sales",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 10,
       "page": 1,
       "sort": "offers",
@@ -64,49 +104,9 @@
       "shuffle": false,
       "limit": 10,
       "page": 1,
-      "collection_id": "6347420873321213f8a8f667:categories:Bíblia Feminina:/biblia-sagrada",
-      "title": "Bíblia Feminina Com Harpa Cristã",
-      "sort": "views",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 10,
-      "page": 1,
-      "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
-      "title": "Bíblia de Estudo Feminina ",
-      "sort": "sales",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 10,
-      "page": 1,
-      "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia",
-      "sort": "news",
-      "title": "Bíblia Masculina",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 10,
-      "page": 1,
       "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil / Revistas / Gibis:/biblia-infantil",
       "sort": "news",
       "title": "Bíblia Infantil ",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
-      "sort": "news",
-      "title": "Promoção ",
       "headless": true
     },
     {
