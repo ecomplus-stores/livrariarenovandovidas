@@ -104,19 +104,6 @@
       "sort": "views"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 2,
-      "start": "2022-12-08T01:31:15.049Z",
-      "end": "2022-12-30T03:59:15.231Z",
-      "offers": [
-        "629118c8ac0cb4200fedb811",
-        "629124c9ac0cb4200feddd59",
-        "62912327ac0cb4200fedd8bc",
-        "6291224cac0cb4200fedd6dd",
-        "62912150ac0cb4200fedd498"
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 20,
       "offset": 0,
