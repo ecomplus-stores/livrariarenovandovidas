@@ -11,7 +11,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/biblia?Bíblia Masculina",
+      "/biblia-sagrada?Bíblia Feminina",
+      "/biblia-infantil?Bíblia Infantil",
+      "/biblia-de-estudo?Bíblias de Estudo",
+      "/dicionario-biblico?Dicionário Bíblico",
+      "/comentario-biblico?Comentário Bíblico",
+      "/livros?Livros",
+      "/harpa-crista?Harpa Cristã"
+    ],
     "random": 8,
     "full_width": true
   },
