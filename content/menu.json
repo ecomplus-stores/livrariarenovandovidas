@@ -1,9 +1,9 @@
 {
   "sort_categories": [
     "biblias",
+    "livros",
     "dicionario-biblico",
     "comentario-biblico",
-    "livros",
     "harpa-crista"
   ],
   "alphabetical_order": true,
