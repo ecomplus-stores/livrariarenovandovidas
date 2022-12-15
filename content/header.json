@@ -13,9 +13,9 @@
   "categories_list": {
     "featured": [
       "/biblias?BÍBLIAS",
+      "/livros?Livros",
       "/dicionario-biblico?Dicionário Bíblico",
       "/comentario-biblico?Comentário Bíblico",
-      "/livros?Livros",
       "/harpa-crista?Harpa Cristã"
     ],
     "random": 8,
