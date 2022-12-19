@@ -1,10 +1,11 @@
 {
   "sort_categories": [
+    "promocao",
     "biblias",
     "livros",
+    "harpa-crista",
     "dicionario-biblico",
     "comentario-biblico",
-    "harpa-crista",
     "editoras"
   ],
   "alphabetical_order": true,
