@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "Enviamos para todo o Brasil",
+    "link": "https://livrariacristarenovandovidas.com"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "Parcele em até 3x sem juros",
+    "link": "https://livrariacristarenovandovidas.com"
   },
   "exchange": {
     "show": false,
