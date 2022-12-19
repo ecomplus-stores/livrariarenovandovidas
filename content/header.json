@@ -14,11 +14,11 @@
     "featured": [
       "/biblias?BÍBLIAS",
       "/livros?Livros",
+      "/harpa-crista?Harpa Cristã",
       "/dicionario-biblico?Dicionário Bíblico",
-      "/comentario-biblico?Comentário Bíblico",
-      "/harpa-crista?Harpa Cristã"
+      "/comentario-biblico?Comentário Bíblico"
     ],
-    "random": 10,
+    "random": 5,
     "full_width": true
   },
   "desktop_megamenu": true,
