@@ -4,7 +4,8 @@
     "livros",
     "dicionario-biblico",
     "comentario-biblico",
-    "harpa-crista"
+    "harpa-crista",
+    "editoras"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
