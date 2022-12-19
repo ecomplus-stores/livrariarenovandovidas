@@ -61,7 +61,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 10,
+      "limit": 24,
       "page": 1,
       "sort": "offers",
       "title": "Bíblia Slim ",
