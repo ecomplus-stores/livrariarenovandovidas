@@ -114,6 +114,14 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner-mercado-pago.png",
       "link": ""
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/combo-4-livros.jpeg"
+        }
+      ]
     }
   ]
 }
