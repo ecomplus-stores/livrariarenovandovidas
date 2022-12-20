@@ -22,16 +22,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/vol-1.jpeg"
+          "img": "/img/uploads/vol-1.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/perguntas-dificeis-de-responder-volume-1"
         },
         {
-          "img": "/img/uploads/vol-2.jpeg"
+          "img": "/img/uploads/vol-2.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/perguntas-dificeis-de-responder-volume-2"
         },
         {
-          "img": "/img/uploads/vol-3.jpeg"
+          "img": "/img/uploads/vol-3.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/perguntas-dificeis-de-responder-volume-3"
         },
         {
-          "img": "/img/uploads/vol-4.jpeg"
+          "img": "/img/uploads/vol-4.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/perguntas-dificeis-de-responder-volume-4"
         }
       ]
     },
