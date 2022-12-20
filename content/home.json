@@ -104,15 +104,6 @@
       "sort": "views"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/combo-4-livros.jpeg",
-          "link": "https://livrariacristarenovandovidas.com/combo-4-livros"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 20,
       "offset": 0,
