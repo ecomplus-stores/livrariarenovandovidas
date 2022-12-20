@@ -7,7 +7,7 @@
   "options": {
     "badgePosition": "INLINE",
     "dialogPosition": "CENTER_DIALOG",
-    "gmcMerchantId": 681857636
+    "gmcMerchantId": 648398417
   },
   "stampsAppend": "src/append/stamps"
 }
