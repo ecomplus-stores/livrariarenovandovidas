@@ -19,6 +19,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/vol-1.jpeg"
+        },
+        {
+          "img": "/img/uploads/vol-2.jpeg"
+        },
+        {
+          "img": "/img/uploads/vol-3.jpeg"
+        },
+        {
+          "img": "/img/uploads/vol-4.jpeg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
