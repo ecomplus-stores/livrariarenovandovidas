@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Promoção",
+    "text": "Kits Promocionais ",
     "link": "https://livrariacristarenovandovidas.com/kits-promocionais",
     "background": "#0b0252",
     "color": "#fcfcf9"
@@ -12,6 +12,7 @@
   },
   "categories_list": {
     "featured": [
+      "/igreja?Igreja",
       "/promocao?Promoção",
       "/biblias?BÍBLIAS",
       "/livros?Livros",
