@@ -25,6 +25,27 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/kit-01.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/kit-de-livros-01"
+        },
+        {
+          "img": "/img/uploads/kit-02.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/kit-de-livros-02"
+        },
+        {
+          "img": "/img/uploads/kit-05.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/kit-de-livros-05"
+        },
+        {
+          "img": "/img/uploads/kit-06.jpeg",
+          "link": "https://livrariacristarenovandovidas.com/kit-de-livros-06"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
