@@ -19,6 +19,16 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
+      "sort": "news",
+      "title": "Promoção ",
+      "headless": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -44,16 +54,6 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
-      "sort": "news",
-      "title": "Promoção ",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
       "sort": "offers",
       "title": "Bíblia Slim ",
       "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim GEO:/slim-geo",
@@ -68,6 +68,17 @@
       "title": "Bíblia Slim KJA",
       "sort": "news",
       "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1pedido.jpeg"
+        },
+        {
+          "img": "/img/uploads/desconto-no-pix.jpeg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
