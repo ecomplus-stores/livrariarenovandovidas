@@ -93,6 +93,17 @@
       "headless": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/chama-no-zap.jpeg"
+        },
+        {
+          "img": "/img/uploads/frete-gratis.jpeg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
