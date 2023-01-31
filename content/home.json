@@ -21,6 +21,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "headless": true,
+      "collection_id": "63d94cc5b9e5be07784d4e68:categories:Combo Livro + Bíblia:/combo-livro--biblia"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
