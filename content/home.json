@@ -24,7 +24,7 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "headless": true,
+      "headless": false,
       "collection_id": "63d94cc5b9e5be07784d4e68:categories:Combo Livro + Bíblia:/combo-livro--biblia"
     },
     {
