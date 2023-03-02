@@ -86,6 +86,16 @@
       "headless": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "637cc81473321213f8e86ed9:categories:Bíblia Anote KJA CPP:/anote-kja-cpp",
+      "sort": "offers",
+      "title": "Bíblia King James Atualizada - Anote",
+      "headless": true,
+      "limit": 24,
+      "page": 1
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -99,34 +109,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "637cc81473321213f8e86ed9:categories:Bíblia Anote KJA CPP:/anote-kja-cpp",
-      "sort": "offers",
-      "title": "Bíblia King James Atualizada - Anote",
-      "headless": true,
-      "limit": 24,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "620f2b227963422eee0b19c4:categories:Bíblias de Estudo:/biblia-de-estudo",
       "title": "Bíblia de Estudo Feminina ",
       "sort": "slug",
       "headless": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/atendimento-zap.jpeg",
-          "link": "https://api.whatsapp.com/send/?phone=5583986101389&text&type=phone_number&app_absent=0"
-        },
-        {
-          "img": "/img/uploads/frete-gratis.jpeg"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
