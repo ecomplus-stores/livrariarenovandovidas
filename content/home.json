@@ -19,6 +19,11 @@
       "enabled": true
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -28,11 +33,6 @@
           "img": "/img/uploads/desconto-no-pix.jpeg"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     },
     {
       "type": "brands-carousel",
