@@ -19,6 +19,15 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "639b6a544834634f7312da11:categories:Editora Thomas Nelson:/editora-thomas-nelson",
+      "sort": "news",
+      "headless": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
