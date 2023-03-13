@@ -35,16 +35,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia",
-      "sort": "news",
-      "title": "Bíblia Masculina",
-      "headless": true
-    },
-    {
       "type": "brands-carousel",
       "limit": 20,
       "offset": 0,
