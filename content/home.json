@@ -21,7 +21,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
