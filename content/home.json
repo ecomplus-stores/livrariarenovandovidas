@@ -36,6 +36,14 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil:/biblia-infantil",
+      "sort": "news"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "lowest_price"
