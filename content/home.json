@@ -38,7 +38,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "sales"
+      "sort": "lowest_price"
     },
     {
       "type": "banners-grid",
