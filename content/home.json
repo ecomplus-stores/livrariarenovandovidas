@@ -21,19 +21,28 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 5,
+      "page": 1,
+      "collection_id": "620f2b227963422eee0b19c4:categories:Bíblia de Estudo Feminina:/biblia-de-estudo",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim NVI e NVT:/slim-geo",
+      "collection_id": "6347420873321213f8a8f667:categories:Bíblia Feminina:/biblia-sagrada",
       "sort": "news",
       "headless": false
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 5,
+      "limit": 12,
       "page": 1,
-      "collection_id": "620f2b227963422eee0b19c4:categories:Bíblia de Estudo Feminina:/biblia-de-estudo",
-      "sort": "news"
+      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim NVI e NVT:/slim-geo",
+      "sort": "news",
+      "headless": false
     },
     {
       "type": "collection-shelf",
