@@ -12,9 +12,9 @@
     "title": "Parcele em até"
   },
   "exchange": {
-    "show": true,
-    "text": "de até 40%off",
-    "title": "Descontos Exclusivos "
+    "show": false,
+    "text": "",
+    "title": ""
   },
   "promo": {
     "show": true,
