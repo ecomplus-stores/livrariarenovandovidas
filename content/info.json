@@ -7,8 +7,9 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros",
-    "link": "https://livrariacristarenovandovidas.com"
+    "text": "3x sem juros",
+    "link": "https://livrariacristarenovandovidas.com",
+    "title": "Parcele em até"
   },
   "exchange": {
     "show": true,
