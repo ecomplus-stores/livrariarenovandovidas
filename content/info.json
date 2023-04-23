@@ -1,8 +1,9 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil",
-    "link": "https://livrariacristarenovandovidas.com"
+    "text": "para compras acima de R$ 150,00 ",
+    "link": "https://livrariacristarenovandovidas.com",
+    "title": "Frete Grátis para PB"
   },
   "installments": {
     "show": true,
