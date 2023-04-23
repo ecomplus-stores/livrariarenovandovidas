@@ -12,11 +12,12 @@
   },
   "exchange": {
     "show": false,
-    "text": ""
+    "text": "de até 40%off",
+    "title": "Descontos Exclusivos "
   },
   "promo": {
     "show": true,
-    "text": "       Acesse Aqui!",
+    "text": "Acesse Aqui!",
     "link": "https://livrariacristarenovandovidas.com/pages/cupons-de-descontos-livraria-crista-renovando-vidas",
     "title": "Cupons de descontos"
   }
