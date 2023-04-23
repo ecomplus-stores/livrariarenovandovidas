@@ -1,4 +1,15 @@
 {
   "title": "Cupons de descontos ",
-  "body": "![confira os cupons disponíveis abaixo ](/img/uploads/1pedido.jpeg)"
+  "body": "![confira os cupons disponíveis abaixo ](/img/uploads/1pedido.jpeg)",
+  "sections": [
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-04-23T03:31:30.443Z",
+      "end": "2023-04-23T03:31:30.521Z"
+    },
+    {
+      "type": "banners-grid"
+    }
+  ]
 }
