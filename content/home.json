@@ -24,7 +24,8 @@
       "limit": 8,
       "page": 4,
       "collection_id": "620f2b227963422eee0b19c4:categories:Bíblia de Estudo Feminina:/biblia-de-estudo",
-      "sort": "news"
+      "sort": "news",
+      "title": "Bíblia de Estudo Feminina "
     },
     {
       "type": "collection-shelf",
