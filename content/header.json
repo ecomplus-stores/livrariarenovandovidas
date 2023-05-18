@@ -14,14 +14,14 @@
     "featured": [
       "/igreja?Igreja",
       "/promocao?Promoção",
-      "/biblias?BÍBLIAS",
+      "/biblias?Bíblias",
       "/livros?Livros",
       "/harpa-crista?Harpa Cristã",
       "/dicionario-biblico?Dicionário Bíblico",
       "/comentario-biblico?Comentário Bíblico",
       "/editoras?Editoras"
     ],
-    "random": 5,
+    "random": 10,
     "full_width": true
   },
   "desktop_megamenu": true,
