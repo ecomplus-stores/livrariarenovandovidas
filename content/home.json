@@ -55,11 +55,6 @@
       "sort": "news"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -69,6 +64,11 @@
           "img": "/img/uploads/1pedido.jpeg"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
