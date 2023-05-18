@@ -21,7 +21,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 8,
+      "limit": 12,
       "page": 1,
       "collection_id": "620f2b227963422eee0b19c4:categories:Bíblia de Estudo Feminina:/biblia-de-estudo",
       "sort": "news",
@@ -57,16 +57,16 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "lowest_price"
+      "sort": "offers"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1pedido.jpeg"
+          "img": "/img/uploads/desconto-no-pix.jpeg"
         },
         {
-          "img": "/img/uploads/desconto-no-pix.jpeg"
+          "img": "/img/uploads/1pedido.jpeg"
         }
       ]
     },
