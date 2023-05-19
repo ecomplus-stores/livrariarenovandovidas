@@ -7,7 +7,9 @@
     "harpa-crista",
     "dicionario-biblico",
     "comentario-biblico",
-    "editoras"
+    "editoras",
+    "papelaria",
+    "atacado"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
