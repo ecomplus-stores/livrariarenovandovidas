@@ -19,9 +19,10 @@
       "/harpa-crista?Harpa Cristã",
       "/dicionario-biblico?Dicionário Bíblico",
       "/comentario-biblico?Comentário Bíblico",
-      "/editoras?Editoras"
+      "/editoras?Editoras",
+      "/papelaria?Papelaria"
     ],
-    "random": 10,
+    "random": 12,
     "full_width": true
   },
   "desktop_megamenu": true,
