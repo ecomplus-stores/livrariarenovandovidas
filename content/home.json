@@ -81,6 +81,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner-mercado-pago.png",
       "link": ""
+    },
+    {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/enviamos-para-todo-brasil.webp)"
     }
   ]
 }
