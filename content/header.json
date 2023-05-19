@@ -20,7 +20,8 @@
       "/dicionario-biblico?Dicionário Bíblico",
       "/comentario-biblico?Comentário Bíblico",
       "/editoras?Editoras",
-      "/papelaria?Papelaria"
+      "/papelaria?Papelaria",
+      "/atacado?Atacado"
     ],
     "random": 12,
     "full_width": true
