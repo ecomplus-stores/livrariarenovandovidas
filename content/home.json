@@ -55,6 +55,11 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/capturar7898-87988897.png",
+      "link": "https://livrariacristarenovandovidas.com/biblias"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
