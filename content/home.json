@@ -103,6 +103,17 @@
     {
       "type": "custom-content",
       "markdown": "![](/img/uploads/enviamos-para-todo-brasil.webp)"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/combo-1.png"
+        },
+        {
+          "img": "/img/uploads/combo-2.png"
+        }
+      ]
     }
   ]
 }
