@@ -19,6 +19,23 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63a0e4574834634f7317dae5:categories:Bíblia de Estudo Masculina:/biblia-de-estudo-masculina",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia-masculina",
+      "sort": "news",
+      "headless": false
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
@@ -43,26 +60,9 @@
       "headless": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia-masculina",
-      "sort": "lowest_price"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/capturar7898-87988897.png",
       "link": "https://livrariacristarenovandovidas.com/biblias"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "637cdf0e73321213f8e8a838:categories:Bíblia Slim NVI e NVT:/slim-geo",
-      "sort": "news",
-      "headless": false
     },
     {
       "type": "collection-shelf",
