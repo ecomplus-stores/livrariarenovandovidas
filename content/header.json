@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Pague com Pix - Ganhe até 5% desconto",
-    "link": " ",
+    "link": "  ",
     "background": "#9a051f",
     "color": "#f7fcfc"
   },
@@ -22,7 +22,7 @@
       "/papelaria?Papelaria",
       "/moda-e-acessorios?Moda e Acessórios"
     ],
-    "random": 9,
+    "random": 8,
     "full_width": true
   },
   "desktop_megamenu": true,
