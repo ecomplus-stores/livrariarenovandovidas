@@ -19,10 +19,9 @@
       "/harpa-crista?Harpa Cristã",
       "/dicionario-biblico?Dicionário Bíblico",
       "/comentario-biblico?Comentário Bíblico",
-      "/papelaria?Papelaria",
-      "/moda-e-acessorios?Moda e Acessórios"
+      "/papelaria?Papelaria"
     ],
-    "random": 7,
+    "random": 8,
     "full_width": true
   },
   "desktop_megamenu": true,
