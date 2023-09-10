@@ -68,11 +68,6 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/38552-volume-2-elias-soares.png",
-      "link": "https://livrariacristarenovandovidas.com/perguntas-dificeis-de-responder-volume-2"
-    },
-    {
       "type": "brands-carousel",
       "limit": 12,
       "offset": 0,
