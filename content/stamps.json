@@ -1,7 +1,10 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/selo-de-garantia-7-dias-1.png"
+      "img": "/img/uploads/selo-de-garantia-7-dias-1.png",
+      "skus": [
+        "EOL2518"
+      ]
     }
   ]
 }
