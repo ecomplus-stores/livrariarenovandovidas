@@ -129,7 +129,8 @@ const themeCustom = _.settings.theme.custom || ''
           <div class="collapse" id="footer-categories">
             <% if (footer.links_2.list_categories) { %>
               <ul class="footer__links">
-                <% _.categories.forEach(({ name, slug, parent }) => { %>
+                <% const categoriesSorted = _.lodash.sortBy(_.categories, ['name'])
+                categoriesSorted.forEach(({ name, slug, parent }) => { %>
                   <% if (!parent) { %>
                     <li>
                       <i class="i-chevron-right"></i>
