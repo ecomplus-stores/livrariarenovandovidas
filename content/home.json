@@ -75,6 +75,11 @@
       "autoplay": 3000
     },
     {
+      "type": "page-title",
+      "title": "Livraria Cristã Renovando Vidas",
+      "description": "Renovando vidas atráves da palavra de Deus"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-mercado-pago.png",
       "link": ""
