@@ -73,6 +73,11 @@
       "description": "Renovando vidas atráves da palavra de Deus"
     },
     {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "title": "Avaliações "
+    },
+    {
       "type": "brands-carousel",
       "limit": 12,
       "offset": 0,
