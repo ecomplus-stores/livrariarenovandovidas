@@ -3,7 +3,7 @@
     "show": true,
     "text": "consulte o regulamento!",
     "link": "https://livrariacristarenovandovidas.com/pages/frete-gratis-consulte-aqui",
-    "title": "Frete Grátis PB a partir de R$99,00"
+    "title": "Frete Grátis para PB "
   },
   "installments": {
     "show": true,
@@ -12,14 +12,15 @@
     "title": "Parcele em até"
   },
   "exchange": {
-    "show": false,
-    "text": "",
-    "title": ""
+    "show": true,
+    "text": "Acesse Aqui!",
+    "title": "Atacado",
+    "link": "https://livrariacristarenovandovidas.com/atacado"
   },
   "promo": {
     "show": true,
     "text": "Acesse Aqui!",
-    "link": "https://livrariacristarenovandovidas.com/pages/cupons-de-descontos-livraria-crista-renovando-vidas",
-    "title": "Cupons de descontos"
+    "link": "https://livrariacristarenovandovidas.com/liquidacao",
+    "title": "LIQUIDAÇÃO"
   }
 }
