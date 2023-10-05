@@ -75,7 +75,33 @@
     {
       "type": "review-carousel",
       "autoplay": 9000,
-      "title": "Avaliações "
+      "title": "Avaliações ",
+      "reviews": [
+        {
+          "img": "/img/uploads/erica-barauna.png"
+        },
+        {
+          "img": "/img/uploads/sthefany.png"
+        },
+        {
+          "img": "/img/uploads/ohana.png"
+        },
+        {
+          "img": "/img/uploads/maria-de-jesus.png"
+        },
+        {
+          "img": "/img/uploads/ademar.png"
+        },
+        {
+          "img": "/img/uploads/neli-araujo.png"
+        },
+        {
+          "img": "/img/uploads/jose-fernando.png"
+        },
+        {
+          "img": "/img/uploads/andrea.png"
+        }
+      ]
     },
     {
       "type": "brands-carousel",
