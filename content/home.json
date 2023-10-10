@@ -19,11 +19,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -66,6 +61,11 @@
       "collection_id": "650325f32cd6b659594c4f82:categories:eBook:/ebook",
       "sort": "news",
       "headless": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "page-title",
