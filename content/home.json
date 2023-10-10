@@ -23,6 +23,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil:/biblia-infantil",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "621049407963422eee0d20ac:categories:Bíblia Masculina:/biblia-masculina",
       "sort": "news",
       "headless": false
@@ -44,14 +52,6 @@
       "page": 1,
       "collection_id": "620f2df77963422eee0b1b42:categories:Livros:/livros",
       "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6297f06dac0cb4200ffb2ec2:categories:Bíblia Infantil:/biblia-infantil",
-      "sort": "news"
     },
     {
       "type": "collection-shelf",
