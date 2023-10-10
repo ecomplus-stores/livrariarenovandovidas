@@ -78,7 +78,10 @@
       "title": "Avaliações ",
       "reviews": [
         {
-          "img": "/img/uploads/erica-barauna.png"
+          "img": "/img/uploads/erica-barauna.png",
+          "nome": "Erica Barauna ",
+          "cidade": "João pessoa - PB",
+          "texto": "Experiência maravilhosa, do atendimento, preço e entrega super recomendo, ganhou mais uma cliente "
         },
         {
           "img": "/img/uploads/sthefany.png"
