@@ -55,9 +55,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6347420873321213f8a8f667:categories:Bíblia Feminina:/biblia-sagrada",
+      "collection_id": "650325f32cd6b659594c4f82:categories:eBook:/ebook",
       "sort": "news",
-      "headless": false
+      "headless": true
     },
     {
       "type": "collection-shelf",
