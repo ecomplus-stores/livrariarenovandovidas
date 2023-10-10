@@ -38,7 +38,7 @@
     },
     {
       "type": "review-carousel",
-      "autoplay": 9000,
+      "autoplay": 4000,
       "title": "Avaliações ",
       "reviews": [
         {
@@ -99,7 +99,7 @@
       "limit": 12,
       "offset": 0,
       "sort": null,
-      "autoplay": 3000
+      "autoplay": 4000
     },
     {
       "type": "responsive-banner",
