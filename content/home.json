@@ -48,6 +48,31 @@
           "texto": "Experiência maravilhosa, do atendimento, preço e entrega super recomendo, ganhou mais uma cliente :) *****"
         },
         {
+          "nome": "Neli Araújo ",
+          "cidade": "Juarez Távora - PB",
+          "texto": "Excelente atendimento, lindas bíblias, parabéns 👏👏👏👏👏"
+        },
+        {
+          "nome": "Maria De jesus",
+          "cidade": "João pessoa - PB ",
+          "texto": "Atendimento e nota 10 gostei muito fui muito bem atendida a entrega foi super rápido."
+        },
+        {
+          "nome": "Ademar Viera",
+          "cidade": "Bayeux - PB",
+          "texto": "Tem muito comprometimento e dedicação com seus clientes. 🤝"
+        },
+        {
+          "nome": "Sthéfany Silveira",
+          "cidade": "Bayeux - PB",
+          "texto": "Melhor livraria que conheço 😍"
+        },
+        {
+          "nome": "José Fernando ",
+          "cidade": "Bayeux - PB",
+          "texto": "Ótimo produto, gostei muito da Bíblia. "
+        },
+        {
           "nome": "Jonatha Silva",
           "cidade": "Bayeux - PB",
           "texto": "Bom dia paz do senhor Lindas Bíblias, entrega garantida 😉🤝 Excelente atendimento, qualidade e satisfação."
@@ -63,34 +88,9 @@
           "texto": "Lindas Bíblias, harpas cristã, biografias e muito mais, que Deus abençoe a todos."
         },
         {
-          "nome": "José Fernando ",
-          "cidade": "Bayeux - PB",
-          "texto": "Ótimo produto, gostei muito da Bíblia. "
-        },
-        {
-          "nome": "Neli Araújo ",
-          "cidade": "Juarez Távora - PB",
-          "texto": "Excelente atendimento, lindas bíblias, parabéns 👏👏👏👏👏"
-        },
-        {
-          "nome": "Ademar Viera",
-          "cidade": "Bayeux - PB",
-          "texto": "Tem muito comprometimento e dedicação com seus clientes. 🤝"
-        },
-        {
-          "nome": "Sthéfany Silveira",
-          "cidade": "Bayeux - PB",
-          "texto": "Melhor livraria que conheço 😍"
-        },
-        {
           "nome": "Ohana Sousa",
           "cidade": "Bayeux - PB",
           "texto": "Os melhores produtos 😍🙏🙌"
-        },
-        {
-          "nome": "Maria De jesus",
-          "cidade": "João pessoa - PB ",
-          "texto": "Atendimento e nota 10 gostei muito fui muito bem atendida a entrega foi super rápido."
         }
       ]
     },
