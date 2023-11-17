@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.12bcb25ed3fbd1de26526e345ded4f07.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2dfe85df88a8a175b93831817e2c821a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.51dfbd06aa38600b281ce282dae087ee.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.67ab7baf0fb99bf9c626673f0cd228ee.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0b16cd5dc634f9f3d7bb082e6d8e0c68.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Livraria Cristã Renovando Vidas",
+  "short_name": "livrariacristarenovandovidas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "livrariacristarenovandovidas",
+  "background_color": "#ffffff",
+  "theme_color": "#9a051f"
+}
